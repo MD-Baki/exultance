@@ -1,0 +1,434 @@
+@media (min-width:992px) and (max-width:1199.98px){
+    /* Nav Responsive Css Start */
+    #banner_nav nav{
+        padding: 15px 30px;
+    }
+    #banner_nav nav .collapse a {
+        font-size: 14px;
+        padding: 10px 12px;
+        margin-left: 5px;
+    }
+    /* ||Nav Responsive Css End|| */
+    
+    /* Banner Responsive Css Start */
+    #banner_footer .b_footer_item .f_con,
+    #services .services_item{
+        padding: 35px 30px 35px 30px;
+    }
+    /* ||Banner Responsive Css End|| */
+
+    /* About Responsive Css Start */
+    #about .about_text .about_text_item {
+        padding: 20px 25px 20px 25px;
+    }
+    /* ||About Responsive Css End|| */
+
+    /* News Responsive Css Start */
+    #news {
+        padding: 100px 30px;
+    }
+    #news .news_item .news_text p {
+        padding-top: 10px;
+        font-size: 14px;
+        line-height: 22px;
+    }
+    #news .news_item .news_text a {
+        margin: 20px 0;
+    }
+    /* ||News Responsive Css End|| */
+}
+@media (min-width:768px) and (max-width:991.98px){
+    /* Nav Responsive Css Start */
+    #banner_nav nav{
+        padding: 15px 30px;
+    }
+    /* ||Nav Responsive Css End|| */
+    
+    /* Banner Responsive Css Start */
+    #banner_footer .b_footer_item .f_con,
+    #services .services_item{
+        padding: 35px 30px 35px 30px;
+    }
+    /* ||Banner Responsive Css End|| */
+
+    /* About Responsive Css Start */
+    #about .about_text .about_text_item {
+        padding: 20px 15px 20px 15px;
+    }
+    #about .about_text .about_text_item p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    #about .about_text .about_text_item h5 {
+        padding-bottom: 10px;
+    }
+    /* ||About Responsive Css End|| */
+
+    /* News Responsive Css Start */
+    #news {
+        padding: 100px 30px;
+    }
+    #news .news_item .news_text p {
+        padding-top: 10px;
+        font-size: 14px;
+        line-height: 22px;
+    }
+    #news .news_item .news_text a {
+        margin: 20px 0;
+    }
+    /* ||News Responsive Css End|| */
+    
+    /* Contact Responsive Css Start */
+    #contact {
+        padding: 80px 0;
+    }
+    #contact .contact_item.tp{
+        padding-top: 40px;
+    }
+    /* ||Contact Responsive Css End|| */
+}
+@media (min-width:576px) and (max-width:767.98px){
+    /* Nav Responsive Css Start */
+    #banner_nav {
+        height: 760px;
+    }
+    #banner_nav nav{
+        padding: 15px 20px;
+    }
+    /* ||Nav Responsive Css End|| */
+
+    /* Banner Responsive Css Start */
+    #banner_nav .banner {
+        padding-top: 35px;
+    }
+    #banner_nav .banner_heading h1 {
+        font-size: 58px;
+    }
+    #banner_nav .banner_heading .banner_btn a {
+        font-size: 14px;
+        margin-top: 30px;
+    }
+    #banner_footer .b_footer_item .f_con,
+    #services .services_item{
+        padding: 30px 25px;
+    }
+    #banner_footer .b_footer_item h4 {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    #banner_footer .b_footer_item p {
+        font-size: 13px;
+    }
+    /* ||Banner Responsive Css End|| */
+
+    /* Services Responsive Css Start */
+    #services {
+        padding: 100px 0 60px 0;
+        position: relative;
+    }
+    .row {
+        margin-right: 0;
+        margin-left: 0;
+    }
+    #services .services_item .services_text h4 {
+        font-size: 20px;
+        padding-bottom: 15px;
+    }
+    #services .services_item .services_text p {
+        font-size: 13px;
+    }
+    /* ||Services Responsive Css End|| */
+
+    /* Work Responsive Css Start */
+    #work {
+        padding: 60px 0;
+    }
+    #work .work_item {
+        padding: 60px 0;
+    }
+    #work .work_item .work_img .work_overlay {
+        font-size: 12px;
+        letter-spacing: 1px;
+    }
+    /* ||Work Responsive Css End|| */
+
+    /* About Responsive Css Start */
+    #about {
+        padding: 60px 0 100px 0;
+    }
+    #about .about_img .about_img_item:hover .about_overlay {
+        left: 25px;
+    }
+    #about .about_img .about_img_item.double .about_overlay {
+        left: 10px;
+    }
+    #about .about_img .about_img_item.double:hover .about_overlay {
+        bottom: 10px;
+    }
+    #about .about_img .about_img_item .about_overlay h5{
+        font-size: 15px;
+        padding-bottom: 1px;
+    }
+    #about .about_img .about_img_item .about_overlay p {
+        font-size: 12px;
+    }
+    #about .about_text .about_text_item.middle {
+        border-right: none;
+    }
+    #about .about_text .about_text_item {
+        padding: 20px 8px 20px 20px;
+        margin-bottom: 10px;
+    }
+    /* ||About Responsive Css End|| */
+
+    /* Testimonials Responsive Css Start */
+    #testimonial {
+    	padding: 60px 0;
+    }
+    #testimonial .test_comment p {
+    	font-size: 14px;
+    	line-height: 22px;
+    	padding: 15px 0;
+    }
+    #testimonial .testimonial_icone {
+        padding: 50px 0;
+    }
+    #testimonial .testimonial_icone i {
+        font-size: 35px;
+        padding: 0 15px;
+    }
+    #testimonial::before {
+        bottom: 30px;
+    }
+    /* ||Testimonials Responsive Css End|| */
+
+    /* News Responsive Css Start */
+    #news::before {
+        bottom: 35px;
+    }
+    #news {
+        padding: 60px 20px;
+    }
+    #news .news_item .news_text p {
+        padding-top: 5px;
+        font-size: 13px;
+        line-height: 20px;
+    }
+    #news .news_item .news_text a {
+        font-size: 13px;
+        padding: 10px 15px;
+        margin: 12px 0;
+    }
+    /* ||News Responsive Css End|| */
+
+    /* Project Responsive Css Start */
+    #project {
+        padding: 60px;
+    }
+    #project h2 {
+        font-size: 35px;
+        padding: 25px 0;
+    }
+    /* ||Project Responsive Css End|| */
+    
+    /* Contact Responsive Css Start */
+    #contact {
+        padding: 60px 0;
+    }
+    #contact .contact_item.tp{
+        padding-top: 40px;
+    }
+    /* ||Contact Responsive Css End|| */
+
+}
+@media (max-width:575.98px){
+    .heading h2 {
+        font-size: 35px;
+        padding-left: 49px;
+    }
+    .heading h2::after {
+        width: 40px;
+    }
+    /* Nav Responsive Css Start */
+    #banner_nav {
+        height: 678px;
+    }
+    #banner_nav nav{
+        padding: 15px;
+    }
+    #banner_nav nav .navbar-brand {
+        font-size: 26px;
+    }
+    /* ||Nav Responsive Css End|| */
+
+    /* Banner Responsive Css Start */
+    #banner_nav .banner {
+        padding-top: 25px;
+    }
+    #banner_nav .banner_heading p {
+        font-size: 13px;
+    }
+    #banner_nav .banner_heading h1 {
+        font-size: 40px;
+    }
+    #banner_nav .banner_heading .banner_btn a {
+        font-size: 13px;
+        margin-top: 20px;
+        padding: 10px;
+    }
+
+    #banner_footer .b_footer_item .f_con,
+    #services .services_item{
+        padding: 30px 25px;
+    }
+    #banner_footer .b_footer_item h4 {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    #banner_footer .b_footer_item p {
+        font-size: 13px;
+    }
+    /* ||Banner Responsive Css End|| */
+
+    /* Services Responsive Css Start */
+    #services {
+        padding: 100px 0 60px 0;
+        position: relative;
+    }
+    .row {
+        margin-right: 0;
+        margin-left: 0;
+    }
+    #services .services_item .services_text h4 {
+        font-size: 20px;
+        padding-bottom: 15px;
+    }
+    #services .services_item .services_text p {
+        font-size: 13px;
+    }
+    /* ||Services Responsive Css End|| */
+
+    /* Work Responsive Css Start */
+    #work {
+        padding: 60px 0;
+    }
+    #work .work_item {
+        padding: 60px 0;
+    }
+    #work .work_item .work_img .work_overlay {
+        font-size: 12px;
+        letter-spacing: 1px;
+    }
+    /* ||Work Responsive Css End|| */
+
+    /* About Responsive Css Start */
+    #about {
+        padding: 60px 0 100px 0;
+    }
+    #about .about_img{
+        padding: 30px 0 10px 0;
+    }
+    #about .about_img .col-sm-6{
+        margin-bottom: 24px;
+    }
+    #about .about_img .about_img_item:hover .about_overlay {
+        left: 25px;
+    }
+    #about .about_img .about_img_item.double .about_overlay {
+        left: 10px;
+    }
+    #about .about_img .about_img_item.double:hover .about_overlay {
+        bottom: 10px;
+    }
+    #about .about_img .about_img_item .about_overlay h5{
+        font-size: 15px;
+        padding-bottom: 1px;
+    }
+    #about .about_img .about_img_item .about_overlay p {
+        font-size: 12px;
+    }
+    #about .about_text .about_text_item.middle {
+        border-right: none;
+        border-left: none;
+    }
+    #about .about_text .about_text_item {
+        padding: 5px;
+        margin-bottom: 10px;
+    }
+    #about .about_text .about_text_item h5 {
+        font-size: 18px;
+        padding-bottom: 5px;
+    }
+    /* ||About Responsive Css End|| */
+
+    /* Testimonials Responsive Css Start */
+    #testimonial {
+    	padding: 60px 0;
+    }
+    #testimonial .test_comment p {
+    	font-size: 14px;
+    	line-height: 22px;
+    	padding: 15px 0;
+    }
+    #testimonial .testimonial_icone {
+        padding: 50px 0;
+    }
+    #testimonial .testimonial_icone i {
+        font-size: 20px;
+        padding: 0 7px;
+    }
+    #testimonial::before {
+        bottom: 30px;
+    }
+    /* ||Testimonials Responsive Css End|| */
+
+    /* News Responsive Css Start */
+    #news::before {
+        bottom: 15px;
+    }
+    #news {
+        padding: 60px 10px;
+    }
+    #news .news_slider {
+        padding: 12px 0;
+    }
+    #news .news_item .news_text p {
+        padding-top: 5px;
+        font-size: 13px;
+        line-height: 20px;
+    }
+    #news .news_item .news_text a {
+        font-size: 13px;
+        padding: 10px 15px;
+        margin: 12px 0;
+    }
+    /* ||News Responsive Css End|| */
+
+    /* Project Responsive Css Start */
+    #project {
+        padding: 60px 0;
+    }
+    #project h2 {
+        font-size: 35px;
+        padding: 25px 0;
+    }
+    /* ||Project Responsive Css End|| */
+    
+    /* Contact Responsive Css Start */
+    #contact {
+        padding: 40px 0;
+    }
+    #contact .contact_item{
+        padding-top: 30px;
+    }
+    #contact .contact_intro{
+        padding: 30px 0;
+        border-top: 1px solid #1c2e2d;
+        border-bottom: 1px solid #1c2e2d;
+    }
+    footer p {
+        font-size: 12px;
+    }
+    /* ||Contact Responsive Css End|| */
+
+}
